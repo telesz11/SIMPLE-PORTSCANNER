@@ -1,4 +1,4 @@
-made by ME
+# made by telesz
 
 **PortScan** — scanner de portas TCP simples em Python.
 
